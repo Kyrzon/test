@@ -3,3 +3,4 @@ text for secFile
 other text for secFile 
 kyrzon 
 this string add in develop
+bat string
