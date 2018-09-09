@@ -1,1 +1,3 @@
 second file 
+text for secFile 
+other text for secFile 
